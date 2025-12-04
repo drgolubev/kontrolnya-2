@@ -11,10 +11,10 @@ c<img width="1793" height="978" alt="Снимок экрана 2025-12-04 в 15 
 <img width="720" height="636" alt="Снимок экрана 2025-12-04 в 15 27 17" src="https://github.com/user-attachments/assets/cdbce16e-8bd1-418f-a439-1b5684d9585a" />
   <img width="2126" height="1938" alt="image" src="https://github.com/user-attachments/assets/aadbdec1-ab92-48cd-a3cb-0f2050059404" />  
   <img width="1581" height="990" alt="Снимок экрана 2025-12-04 в 16 29 07" src="https://github.com/user-attachments/assets/3c71264f-a1b5-4c4f-bc59-38cebc0510b6" />  
-Задание№2    
-admin@juice-sh.op  
-0192023a7bbd73250516f069df18b500  
-admin123  
+Задание№2     
+admin@juice-sh.op    
+0192023a7bbd73250516f069df18b500   
+admin123   
 Это небольшой фрагмент данных, который веб-сервер передаёт и который сохраняется на устройстве пользователя в исходном виде, без модификации или дополнительной обработки.  
 Также применяется принцип минимально необходимых привилегий.  
 Задание№3  
